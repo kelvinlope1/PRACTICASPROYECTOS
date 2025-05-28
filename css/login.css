@@ -1,14 +1,27 @@
 .continer-principal{
-    border-style: solid;
+
     background-color: darkgrey;
     text-align: center;
-    width: 500px;
+    width: 600px;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-left: 400px;
     margin-right: 100px;
     border-radius: 5px;
+    display: flex;
 }
 .login-continer{
-    
+    border-style: solid ;
+    text-align: center;
+    padding: 50px;
+    width: 200px;
+
+  
+
+}
+.continer-registro{
+    padding: 50px;
+    border-style: solid ;
+    width: 200px;
+
 }
