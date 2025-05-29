@@ -1,0 +1,21 @@
+.contenedores-button{
+    display: flex;
+
+
+}
+.button{
+    border: solid;
+    border-width: 1px;
+    width: 100px;
+    background-color:darkgray
+}
+.panel{
+    background-color: aqua;
+    width: 200px;
+    
+}
+a{
+    text-decoration: none;
+    
+}
+
